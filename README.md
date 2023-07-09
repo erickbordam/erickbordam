@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer | Java Developer | .Net Developer | Data Science & Analytics
 ------------------------------------------------------------------------------
-Software engineer with a solid background in ASP.NET technologies over 4 years of experience, full stack developer, talented in NOSQL and SQL Database, Version control, CI/CD, deployment, message brokers, logging, and monitoring. With the ability to solve problems and dedication to providing high-quality solutions, critical thinker, collaborative.
+Software engineer with a solid background in Java, ASP.NET technologies over 7+ years of experience, full stack developer, talented in NOSQL and SQL Database, Version control, CI/CD, deployment, message brokers, logging, and monitoring. With the ability to solve problems and dedication to providing high-quality solutions, critical thinker, collaborative. And now trying to become a Data Engineer.
 
 * 🌍 I'm from Cochabamba, BO
 * 🌍 I'm based in London, UK
