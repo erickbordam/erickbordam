@@ -7,8 +7,9 @@ I'm a passionate software developer with a love for building innovative solution
 applications that make a positive impact on people's lives. I enjoy exploring new technologies and frameworks to expand
 my skillset and stay up-to-date with industry trends.
 
+* 🌍 I'm from Cochabamba, BO
 * 🌍 I'm based in London, UK
-* 🧠 I'm learning Data Science
+* 🧠 I'm getting my MSc. Big Data and Data Science
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickbordam&label=Profile%20views&color=0e75b6&style=flat" alt="erickbordam" /> </p>
 
