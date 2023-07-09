@@ -3,9 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer | Java Developer | .Net Developer | Data Science & Analytics
 ------------------------------------------------------------------------------
-I'm a passionate software developer with a love for building innovative solutions. My goal is to create meaningful
-applications that make a positive impact on people's lives. I enjoy exploring new technologies and frameworks to expand
-my skillset and stay up-to-date with industry trends.
+Software engineer with a solid background in ASP.NET technologies over 4 years of experience, full stack developer, talented in NOSQL and SQL Database, Version control, CI/CD, deployment, message brokers, logging, and monitoring. With the ability to solve problems and dedication to providing high-quality solutions, critical thinker, collaborative.
 
 * 🌍 I'm from Cochabamba, BO
 * 🌍 I'm based in London, UK
