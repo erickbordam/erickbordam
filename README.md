@@ -36,3 +36,8 @@ my skillset and stay up-to-date with industry trends.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erickbordam&show_icons=true&locale=en" alt="erickbordam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erickbordam&" alt="erickbordam" /></p>
+
+### Graphs
+<b>Commits Graphs</b>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erickbordam&bg_color=93b4ab&color=4d4c4d&line=7e7c7e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
