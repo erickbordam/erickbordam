@@ -103,7 +103,7 @@ Software engineer with a solid background in Java, ASP.NET technologies over 7+ 
   <p>
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
     <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/aws-icon.svg" width="36" height="36" alt="AWS" /></a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo-700x394.png" width="36" height="36" alt="AWS" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://wazuh.com/uploads/2022/02/docker-post-icon.png" width="36" height="36" alt="Docker" /></a>
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://www.jenkins.io/images/logos/jenkins/256.png" width="36" height="36" alt="Jenkins" /></a>
   </p>
